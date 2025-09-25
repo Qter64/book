@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+#calendar {
+  margin-top: 20px;
+}
+
+#eventForm {
+  margin-top: 20px;
+}
+
+#eventForm input, #eventForm textarea {
+  width: 100%;
+  margin-bottom: 10px;
+}
